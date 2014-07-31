@@ -1,5 +1,5 @@
 describe('Mirror', function () {
-  it('should reflect all methods of a object into another', function () {
+  it('should reflect all methods of an object into another', function () {
     var source        = { id: 1 }
         , dest        = { name: 'Spec' };
 
