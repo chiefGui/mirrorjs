@@ -21,7 +21,7 @@ First of all, clone it into your js' vendor folder:
 
 Then, explode in your markup:
 
-`<script type="text/javascript" src="js/vendor/Mirror.js">`
+`<script type="text/javascript" src="js/vendor/Mirror.js"></script>`
 
 Finally, it's time to code:
 
